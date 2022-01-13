@@ -10,9 +10,6 @@
 .texto {
   flex: 100%;
 }
-.imagen {
-  flex: 100%;
-}
 .formulario {
   flex: 100%;
 }
@@ -21,9 +18,6 @@
     flex-direction: row;
   }
   .texto {
-    flex: 30%;
-  }
-  .imagen {
     flex: 30%;
   }
   .formulario {
